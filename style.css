@@ -83,7 +83,7 @@ html {
   height: 160px;
   width: 160px;
   border-radius: 50%;
-  background-image: url(two.jpg);
+  background-image: url(/img/two.jpg);
   border: 2px solid white;
   background-size: cover;
 }
@@ -226,7 +226,7 @@ pre{
 .img-2{
     height: 272px;
     width: 272px;
-    background-image: url(two.jpg);
+    background-image: url(/img/two.jpg);
     background-size: cover;
     border: 15px solid transparent;
     border-image: linear-gradient(to top right , #D76C82, #09141e)0.5;
